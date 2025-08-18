@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kiarash Kowsari</h1>
-<h3 align="center">A Technical Analyst in FX Market</h3>
+<h3 align="center">A Technical Analyst in FX Market and Backend Developer at Kisters AG</h3>
 
-- 🔭 I’m currently working on **ICT Method**
+- I’m currently working on **ICT Method and AlgoTrading** in my free time
+- 
+- Also working as **Backend Developer at Kisters AG**
+- 
+- I’m currently learning **Machine Learning, Deep Learning, Risk Management, Technical Analyze**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Risk Management, Technical Analyze**
-
-- 👯 I’m looking to collaborate on **Machine Learning and Algorithmic Trading**
+- I’m looking to collaborate on **Machine Learning and Algorithmic Trading**
 
 - 📫 How to reach me **Kowsarikiarash@gmail.com**
 
